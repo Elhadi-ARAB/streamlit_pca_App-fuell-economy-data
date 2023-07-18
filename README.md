@@ -11,7 +11,7 @@ This project is an application that allows for exploring the relationship betwee
 
 ## Technologies Used 
 
-Python
+* Python
 * Streamlit
 * Pandas
 * NumPy
