@@ -23,3 +23,7 @@ Python
 ## Note
 
 This project has been developed as part of personal learning and aims to demonstrate the use of Principal Component Analysis (PCA) to explore relationships between variables in a dataset. It can be extended and enhanced to include additional features and analyses based on specific requirements.
+
+
+https://github.com/Elhadi-ARAB/streamlit_pca_App-fuell-economy-data/assets/126841915/e1a93fab-817d-47c1-8d66-d4148d4df110
+
